@@ -3,13 +3,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/sahak-arzoumanian-923a55223/">
+  <a href="https://www.linkedin.com/in/sahak-arzoumanian-923a55223/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/sahag.arzoumanian">
+  <a href="https://www.facebook.com/sahag.arzoumanian" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.instagram.com/sahag98/">
+  <a href="https://www.instagram.com/sahag98/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
