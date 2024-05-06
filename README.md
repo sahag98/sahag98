@@ -21,7 +21,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I'm a Website Freelancer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a Website and App Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Seeking employement opportunities in the software development and the IT industry.
 
 - :seedling: Developing my skills in React, as well as staying up to date with recent new technologies.
